@@ -1,5 +1,5 @@
 ---
-title: 10-01. jwt and cors
+title: 10. jwt and cors
 date: 2026-04-08 00:00:00 +0900
 categories: [Node.JS, jwt-cors]
 tags: [Tech, Node.JS, jwt, cors]
