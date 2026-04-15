@@ -1,7 +1,7 @@
 ---
 title: webrtc sample 분석 (signaling)
 date: 2026-04-15 00:00:00 +0900
-categories: [Blog, WebRTC]
+categories: [Blog, WebRTC, signaling]
 tags: [Tech, WebRTC, sample, signaling]
 pin: true
 ---
@@ -43,3 +43,7 @@ pin: true
          ╰────────────────── P2P 연결 완료 ─────────────────────────╯
 
 ```
+
+> 여기 모두 설명을 넣으려했는데 너무 길어져서 별도 페이지로 나눔.
+
+
