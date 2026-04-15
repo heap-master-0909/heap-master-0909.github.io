@@ -46,4 +46,12 @@ pin: true
 
 > 여기 모두 설명을 넣으려했는데 너무 길어져서 별도 페이지로 나눔.
 
+## 예상 정리 내용.
 
+1. Peer A의 CreateOffer 생성과정
+2. Peer B의 Offer 수신과 처리(Answer) 과정
+3. Peer A의 OnIcecandiate 처리 과정
+4. Peer B의 AddIceCandidate 처리 과정
+5. DTLS Handshake 과정
+6. SRTP/SCTP 처리 과정
+7. CleanUp 및 최종 정리
