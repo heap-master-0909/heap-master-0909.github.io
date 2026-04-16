@@ -12,7 +12,7 @@ CLion·VS Code를 같이 쓸 때 맞춰 두면 편한 단축키 모음이다. Je
 
 | 동작 | 단축키 |
 |------|--------|
-| Find Usages | Alt + Q |
+| Find Usages / Go to References | Alt + Q |
 | Back | Ctrl + - |
 | Forward | Ctrl + Shift + - |
 | Go to Declaration or Usages | F12 |
