@@ -1,8 +1,8 @@
 ---
 title: mediasoup build & test 방법
 date: 2026-04-17 00:00:00 +0900
-categories: [Etc, clion-build-setting]
-tags: [Tech, Etc, clion-build-setting]
+categories: [Etc, mediasoup]
+tags: [Tech, Etc, mediasoup]
 pin: true
 ---
 
