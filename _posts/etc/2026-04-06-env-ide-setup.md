@@ -10,11 +10,12 @@ CLion·VS Code를 같이 쓸 때 맞춰 두면 편한 단축키 모음이다. Je
 
 ## 단축키
 
-| 동작 | 단축키 |
-|------|--------|
-| Find Usages / Go to References | Alt + Q |
-| Back | Ctrl + - |
-| Forward | Ctrl + Shift + - |
-| Go to Declaration or Usages | F12 |
+| 동작 | 단축키 (win) | 단축키(mac) |
+|------|--------|---|
+| Find Usages / Go to References | Alt + Q | shift + f12 |
+| Back | Ctrl + - | command + - |
+| Forward | Ctrl + Shift + - | command + shift + - |
+| Go to Declaration or Usages | F12 | f12 |
+| Go to Implementation(s) | Alt + w | shift + f11 |
 
 Windows 기준이다. macOS에서는 Ctrl 대신 ⌘ 등 환경에 맞게 바꾸면 된다.
