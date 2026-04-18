@@ -6,6 +6,10 @@ tags: [Tech, Etc, obsidian-env]
 pin: true
 ---
 
+## 추천 세팅
+
+* [karpathy obsidian wiki](https://gist.github.com/heap-master-0909/258cd5984930942f219c54f2be4d418f)
+
 ## 추천 플러그인
 
 ### Smart Composer
