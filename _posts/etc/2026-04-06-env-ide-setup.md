@@ -17,5 +17,6 @@ CLion·VS Code를 같이 쓸 때 맞춰 두면 편한 단축키 모음이다. Je
 | Forward | Ctrl + Shift + - | command + shift + - |
 | Go to Declaration or Usages | F12 | f12 |
 | Go to Implementation(s) | Alt + w | shift + f11 |
+| Switch Header/Source | Alt + o | control + command + o |
 
 Windows 기준이다. macOS에서는 Ctrl 대신 ⌘ 등 환경에 맞게 바꾸면 된다.
