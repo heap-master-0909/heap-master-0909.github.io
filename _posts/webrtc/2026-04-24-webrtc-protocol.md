@@ -146,6 +146,7 @@ WebRTC의 DTLS는 **자가 서명 인증서**를 사용하며, 인증서의 지�
 
 ### 단계 1-1. `createOffer()` — 로컬에서 SDP 생성
 
+{% raw %}
 ```cpp
 #include "api/peer_connection_interface.h"
 #include "api/create_peerconnection_factory.h"
@@ -190,6 +191,7 @@ class OfferCB : public webrtc::CreateSessionDescriptionObserver {
 };
 pc->CreateOffer(new rtc::RefCountedObject<OfferCB>(), {});
 ```
+{% endraw %}
 
 ### 단계 1-2. SDP Offer (A → Signaling Server)
 
