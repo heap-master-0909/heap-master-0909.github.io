@@ -157,6 +157,19 @@ File → Open →
 
 ---
 
+### 프로세스 종료
+
+| 하고 싶은 것 | Mac에서 |
+|:---|:---|
+| 그 터미널에서 서버 띄운 상태로 끄기 | 그 창을 앞에 두고 Ctrl + C (Mac이라고 Cmd+C가 아님) |
+| 터미널에서 이름으로 끄기 | `pkill -9 -f "bin/mediasoup-demo-server"` |
+| Worker만 남았을 때 | `pkill -9 -f "mediasoup-worker"` |
+| GUI로 끄기 | 응용 프로그램 → 유틸리티 → 활성 상태 보기(Activity Monitor) 에서 node / mediasoup-worker 선택 후 종료
+포트로 찾기 |
+| 터미널: lsof -nP -iTCP:4443 -sTCP:LISTEN → 나온 PID에 kill -9 PID | |
+
+---
+
 ## 참고: mediasoup 아키텍처
 
 ```
