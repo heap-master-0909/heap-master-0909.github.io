@@ -28,6 +28,14 @@ obsidian://show-plugin?id=smart-composer
 
 ---
 
+### Terminal
+
+```
+obsidian://show-plugin?id=terminal
+```
+
+---
+
 ### Style Settings
 
 width 조절용
