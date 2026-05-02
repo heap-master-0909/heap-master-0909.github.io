@@ -8,8 +8,6 @@ pin: true
 
 ## 추천 세팅
 
-* [karpathy obsidian wiki](https://gist.github.com/heap-master-0909/258cd5984930942f219c54f2be4d418f)
-
 + [chrome obsidian web clipper](https://chromewebstore.google.com/detail/cnjifjpddelmedmihgijeibhnjfabmlf?utm_source=item-share-cb) 같이 쓰면 좋음.
 + 사용법 : 소스를 raw에 넣고 ingest해줘라 하면 됨.
 + lint 시 필요없는 파일등을 정리해준다
