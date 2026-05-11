@@ -60,3 +60,8 @@ obsidian://show-plugin?id=canvas-mindmap
 
 obsidian://show-plugin?id=shiki-highlighter
 
+---
+
+### fast-text-color
+
+텍스트 하이라이터
