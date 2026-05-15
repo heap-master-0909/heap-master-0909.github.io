@@ -65,3 +65,34 @@ obsidian://show-plugin?id=shiki-highlighter
 ### fast-text-color
 
 텍스트 하이라이터
+
+---
+
+### css style 적용
+
+* [link](https://eoureo.tistory.com/6)
+
+settings > apperance > CSS Snippets
+
+```css
+/*
+1. 노트의 frontmatter에 추가 (Add to the Frontmatter of the notes you want)
+cssclass: my_style_width_100
+2. "Settings ＞ Appearance ＞ CSS Snippets"에 설정 (Set to "Settings ＞ Appearance ＞ CSS Snippets")
+my_style.css에 추가 (Add to my_style.css)
+*/
+
+/* Editing View */
+.my_style_width_100 .cm-sizer,
+.my_style_width_100 .cm-sizer .cm-contentContainer .cm-content,
+.my_style_width_100 .cm-sizer .cm-contentContainer .cm-content .cm-line,
+/* Reading View */
+.my_style_width_100 .markdown-preview-sizer.markdown-preview-section,
+.my_style_width_100 .markdown-preview-sizer.markdown-preview-section > div
+{
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-left: initial !important;
+  margin-right: initial !important;
+}
+```
